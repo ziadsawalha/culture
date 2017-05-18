@@ -1,8 +1,8 @@
-## Our culture##
+## Our culture ##
 
 [TBD] 
 
-## Values##
+## Values ##
 As of 15 of May 2017
 
 **Serverless is a group project**
