@@ -2,7 +2,7 @@
 
 ### Communication
 
-With a distributed team keeping communiation clear and inclusive is a top priority. That's why we focus on asyncronous communication channels that keep everybody in the loop and allow everybody to provide insights and feedback.
+With a distributed team keeping communication clear and inclusive is a top priority. That's why we focus on asyncronous communication channels that keep everybody in the loop and allow everybody to provide insights and feedback.
 
 We use the following tools to accomplish this:
 
@@ -23,11 +23,11 @@ We try to keep meetings to a minimum, but in order to keep everybody on the same
 
 When in doubt always err on the side of cloud scaleability. 
 
-- **Google Docs** - best when working on documents that need to be edited by multiple people and don't fit well in Github.
-- **Microsoft Office** - this is especially applies to presentations. We have a strong affinity for Powerpoint
+- **Google Docs** - Best when working on documents that need to be edited by multiple people and don't fit well in Github.
+- **Slides.com** - For building presentations
 - **1Password** - Each team member is added to the Serverless 1PW account and any applicable vaults. Use 1PW to generate complex passwords and keep them stored without having to write them down.
-- **Expensity** - for reimbursing employee expenses.
-- **Bill.com** - for paying vendors and US based contractors.
+- **Expensify** - For reimbursing employee expenses.
+- **Bill.com** - For paying vendors and US based contractors.
 
 ### Company policies
 
