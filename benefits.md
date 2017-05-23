@@ -1,4 +1,4 @@
-## Benefits##
+## Benefits
 
 The following benefits apply to full-time employees living in the United States. 
 
