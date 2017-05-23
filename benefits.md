@@ -16,7 +16,7 @@ Serverless does not provide vision at this time (May 2017)
 
 **Flexible work schedule**
 
-At Serverless we focus on results, not whether you're at your computer from 9AM - 5PM. Working with a distributed team means that we all need to take meetings outside of traditional working hours in our respective time zone. If you need to take an afternoon off to catch your kid's little league game or get to the dreaded DMV, just make sure that you let your team know. f
+At Serverless we focus on results, not whether you're at your computer from 9AM - 5PM. Working with a distributed team means that we all need to take meetings outside of traditional working hours in our respective time zone. If you need to take an afternoon off to catch your kid's little league game or get to the dreaded DMV, just make sure that you let your team know. 
 
 **Paid time off**
 
