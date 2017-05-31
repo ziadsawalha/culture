@@ -29,3 +29,5 @@ Bringing home a new bundle of joy is exciting and stressful. Serverless offers 1
 **Company sponsored learning**
 
 Is there an amazing conference you would like to attend to improve your Golang chops or an online course that will take your Go to the next level? Continuous learning is ingrained in our culture so reach out to Casey to get preapproved for a conference or course.
+
+Prefer books? Use our subscription to [Safari Books Online](https://www.safaribooksonline.com/). You can find the credentials in the 1Password Shared Vault.
