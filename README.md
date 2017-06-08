@@ -10,3 +10,4 @@ If you are brand spanking new and this is your first introduction to Serverless 
 [Culture and values](https://github.com/serverless/culture/blob/master/culture-and-values.md)
 <br /> [Benefits](https://github.com/serverless/culture/blob/master/benefits.md)
 <br /> [How we operate](https://github.com/serverless/culture/blob/master/how-we-operate.md)
+<br /> [Performance culture](https://github.com/serverless/culture/blob/master/performance-culture.md)
