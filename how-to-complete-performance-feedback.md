@@ -28,19 +28,13 @@ Managers compile the performance assessments into a single document.
 
 Casey schedules each person's performance review with their manager.
 
-## Structure of the meeting
+## Performance review agenda
+1. Check-in about how the team member is feeling both personally and professionally.
+2. Team member shares their assessment of their performance.
+3. Manager shares consolidated team feedback report.
+4. Manager guides the discussion of similarities and differences in the performance appraisal.
+5. Manager receives feedback and suggestions from team member.
+6. Manager and team member work together to set performance expectations for the following quarter, finalize OKRs, and identify developmental opportunities for next appraisal period.
 
-| Purpose                                  | Action(s)                                |
-| ---------------------------------------- | ---------------------------------------- |
-| **1.**  **Explain the purpose of the meeting.** | To discuss the team member’s performance over the last quarter, the job expectations for the next quarter, and development opportunities for the team member. |
-| **2. Explain the process of the meeting.** | a. Check-in about how team member is feeling:  personally and professionally.<br>b. Review past performance.<br>&nbsp;&nbsp;&nbsp;&nbsp;i. Allow team member to share how they view their performance over the last quarter.<br>&nbsp;&nbsp;&nbsp;&nbsp;ii.Allow team member to share their ideas for strengthening their performance.<br>&nbsp;&nbsp;&nbsp;&nbsp;iii. Manager shares their evaluation.<br>&nbsp;&nbsp;&nbsp;&nbsp;iv. Discuss differences and come to a common understanding. <br> c. Set performance expectations for next quarter. Review OKRs.<br> d. Discuss developmental plans and activities that should be conducted during the next appraisal period. |
-| **3. Ask if team member has any questions about how the meeting will proceed.** |                                          |
-| **4. Check-in about how team member is feeling both personally and professionally.** | a. Listen carefully. <br> b. Discuss areas where the team member may need more support or can provide support to others. |
-| **5. Team member shares their assessment of their performance.** | a. Listen carefully to the team member’s self assessment.<br>b. Focus on the team member’s specific behaviors/ actions and results related to their performance. |
-| **6. Share the consolidated team feedback report.** | a. Provide effective performance feedback.<br> b. Focus on behaviors, actions, and results.<br> c. Reinforce positive performance results.<br> d. Direct critical performance feedback toward performance improvement. |
-| **7. Guide the discussion of similarities and differences in the performance appraisal.** | a. Show interest in what the team member has to contribute.<br> b. Ask questions to clarify and gather information.<br> c. Focus the conversation on performance improvement.<br> d. Seek to understand why the team member chose the behaviors they did.<br> e. Arrive at a common understanding on how you and the team member view their performance.<br> f. When disagreements occur, ask questions to uncover the underlying reasons for this difference of opinions. |
-| **8. Receive feedback and suggestions from the team member.** | a. Focus on the performance issues reported, not the person or personality.<br> b. Carefully listen, take notes.Acknowledge the team member’s concern.<br> c. Welcome suggestions.<br> d. Remain open to feedback on your own behavior as a manager. <br> e. Clarify any feedback that you receive from the team member on your own leadership. |
-| **9. Set performance expectations for the next quarter. Review OKRs.** |                                          |
-| **10. Discuss developmental activities for the next appraisal period.** |                                          |
-| **11. Close the meeting**                | 1.  Acknowledge your appreciation of the team member’s efforts.<br> 2. Review the performance expectations and developmental activities.<br> 3. Clarify the role that you and the team member will take in regard to performance expectations and developmental activities and determine the next steps. |
+
 
