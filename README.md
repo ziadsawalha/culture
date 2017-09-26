@@ -11,3 +11,4 @@ If you are brand spanking new and this is your first introduction to Serverless 
 <br /> [Benefits](https://github.com/serverless/culture/blob/master/benefits.md)
 <br /> [How we operate](https://github.com/serverless/culture/blob/master/how-we-operate.md)
 <br /> [Performance culture](https://github.com/serverless/culture/blob/master/performance-culture.md)
+<br /> [Guide to team retreats](https://github.com/serverless/culture/blob/master/team-retreats.md)
