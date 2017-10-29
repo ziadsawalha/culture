@@ -22,10 +22,6 @@ At Serverless we focus on results, not whether you're at your computer from 9AM 
 
 We work hard at Serverless and understand that people need different amounts of time to take off and recharge. We don't put a cap on how many days you can take off, but do require that employees take a minimum of 20 days off each year to make sure that we all have enough downtime to avoid burnout and stay creative. See Time Off under Company Policies for the official policy.
 
-**Family leave**
-
-Bringing home a new bundle of joy is exciting and stressful. Serverless offers 12 weeks of paid family leave to be taken anytime within the first year of bringing home a new child.
-
 **Company sponsored learning**
 
 Is there an amazing conference you would like to attend to improve your Golang chops or an online course that will take your Go to the next level? Continuous learning is ingrained in our culture so reach out to Casey to get preapproved for a conference or course.
